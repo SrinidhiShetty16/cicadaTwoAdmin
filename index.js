@@ -2,13 +2,13 @@ import {initializeApp} from 'https://www.gstatic.com/firebasejs/10.12.4/firebase
 import { getFirestore, collection, doc, getDoc, setDoc } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-firestore.js';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBSBZLT-EnhB-0d1JpywzAJADRx3kGdIRk",
-  authDomain: "cicada-c3ee0.firebaseapp.com",
-  projectId: "cicada-c3ee0",
-  storageBucket: "cicada-c3ee0.appspot.com",
-  messagingSenderId: "689141545944",
-  appId: "1:689141545944:web:f9d30d946bbafac30d50ad",
-  measurementId: "G-7TVKFXBXKN"
+  apiKey: "AIzaSyBrY7pX7YNBznpM3dUfqH0XNqpPuSk_Tnk",
+  authDomain: "cicada2.firebaseapp.com",
+  projectId: "cicada2",
+  storageBucket: "cicada2.firebasestorage.app",
+  messagingSenderId: "409497835906",
+  appId: "1:409497835906:web:c25f3f6f26969fffc4d79b",
+  measurementId: "G-NDLNQ53V2M"
 };
 
 const app = initializeApp(firebaseConfig);
